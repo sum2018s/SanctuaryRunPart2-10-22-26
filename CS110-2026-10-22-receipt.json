@@ -1,0 +1,940 @@
+{
+  "schema": "sanctuary-run-receipt/3",
+  "id": "97443544-61a5-46c5-a117-8e585c1005f4:c84a35f9-9d89-4007-b6d3-d16009149444:2026-10-22",
+  "course": "CS110",
+  "event": "The New World",
+  "eventCode": "1ED063",
+  "day": "2026-10-22",
+  "timeZone": "America/Los_Angeles",
+  "player": "Jesse(2)",
+  "playerId": "c84a35f9-9d89-4007-b6d3-d16009149444",
+  "team": "DUFF",
+  "participation": "team",
+  "teamCrest": 1,
+  "placement": {
+    "place": 1,
+    "prizePlace": 1,
+    "round": 4,
+    "scope": "event",
+    "final": true,
+    "points": 184.85
+  },
+  "prize": {
+    "place": 1,
+    "title": "Sanctuary Champion",
+    "description": "First-place prize announced by the Gamemaster.",
+    "image": ""
+  },
+  "teamMembers": [
+    {
+      "name": "Karl",
+      "portrait": 5,
+      "subject": "quiz",
+      "character": "The Scholar"
+    },
+    {
+      "name": "Penguin",
+      "portrait": 1,
+      "subject": "wpf",
+      "character": "The Artificer"
+    },
+    {
+      "name": "GodKing",
+      "portrait": 3,
+      "subject": "css",
+      "character": "The Weaver"
+    },
+    {
+      "name": "Jesse(2)",
+      "portrait": 0,
+      "subject": "csharp",
+      "character": "The Pathfinder"
+    },
+    {
+      "name": "An Nguyen",
+      "portrait": 2,
+      "subject": "html",
+      "character": "The Architect"
+    }
+  ],
+  "teamPoints": 181.25,
+  "teamPenalties": [],
+  "teamRoundPoints": 34.5,
+  "hunt": {
+    "round": 3,
+    "combatClass": "Warrior",
+    "damage": 394,
+    "strikes": 7,
+    "healing": 0,
+    "blocked": 0,
+    "defeats": 0,
+    "escapes": 3,
+    "teamKills": 12,
+    "teamBounty": 5.75,
+    "battles": [
+      {
+        "name": "Nettlewick",
+        "location": "Mosswatch Village",
+        "region": "forest",
+        "bounty": 0.25,
+        "myDamage": 26,
+        "mySupport": 0,
+        "myShare": 0.25,
+        "at": "2026-10-22T22:03:08.358Z"
+      },
+      {
+        "name": "Silverfang",
+        "location": "Runeforge",
+        "region": "foundry",
+        "bounty": 0.25,
+        "myDamage": 0,
+        "mySupport": 0,
+        "myShare": 0,
+        "at": "2026-10-22T22:02:59.469Z"
+      },
+      {
+        "name": "Aster Volt",
+        "location": "Runeforge",
+        "region": "foundry",
+        "bounty": 0.5,
+        "myDamage": 0,
+        "mySupport": 0,
+        "myShare": 0,
+        "at": "2026-10-22T22:05:53.071Z"
+      },
+      {
+        "name": "Briar Oath",
+        "location": "Mosswatch Village",
+        "region": "forest",
+        "bounty": 0.5,
+        "myDamage": 40,
+        "mySupport": 0,
+        "myShare": 0.5,
+        "at": "2026-10-22T22:05:03.674Z"
+      },
+      {
+        "name": "Sparkthorn",
+        "location": "Signal Isle",
+        "region": "coast",
+        "bounty": 0.5,
+        "myDamage": 0,
+        "mySupport": 0,
+        "myShare": 0,
+        "at": "2026-10-22T22:03:29.697Z"
+      },
+      {
+        "name": "Nerath",
+        "location": "Tideglass Harbor",
+        "region": "coast",
+        "bounty": 0.25,
+        "myDamage": 0,
+        "mySupport": 0,
+        "myShare": 0,
+        "at": "2026-10-22T22:05:21.920Z"
+      },
+      {
+        "name": "Bronze Pilgrim",
+        "location": "Lantern Grove",
+        "region": "forest",
+        "bounty": 0.5,
+        "myDamage": 40,
+        "mySupport": 0,
+        "myShare": 0.5,
+        "at": "2026-10-22T22:06:20.381Z"
+      },
+      {
+        "name": "The Brine Elder",
+        "location": "Tideglass Harbor",
+        "region": "coast",
+        "bounty": 0.5,
+        "myDamage": 0,
+        "mySupport": 0,
+        "myShare": 0,
+        "at": "2026-10-22T22:15:10.275Z"
+      },
+      {
+        "name": "The Lantern Bailiff",
+        "location": "Lantern Grove",
+        "region": "forest",
+        "bounty": 0.25,
+        "myDamage": 0,
+        "mySupport": 0,
+        "myShare": 0,
+        "at": "2026-10-22T22:06:42.690Z"
+      },
+      {
+        "name": "Ninefold Echo",
+        "location": "Runeforge",
+        "region": "foundry",
+        "bounty": 1,
+        "myDamage": 0,
+        "mySupport": 0,
+        "myShare": 0,
+        "at": "2026-10-22T22:13:34.298Z"
+      },
+      {
+        "name": "Cairnkeeper",
+        "location": "Mosswatch Village",
+        "region": "forest",
+        "bounty": 1,
+        "myDamage": 48,
+        "mySupport": 0,
+        "myShare": 0,
+        "at": "2026-10-22T22:11:28.607Z"
+      },
+      {
+        "name": "Morrow Anvil",
+        "location": "Emberwatch Outpost",
+        "region": "foundry",
+        "bounty": 0.25,
+        "myDamage": 0,
+        "mySupport": 0,
+        "myShare": 0,
+        "at": "2026-10-22T22:16:22.880Z"
+      }
+    ]
+  },
+  "siege": {
+    "round": 4,
+    "realm": "Sanctuary",
+    "wavesCompleted": 4,
+    "status": "wave",
+    "kills": 31
+  },
+  "combatCosts": {
+    "nodes": [
+      {
+        "id": "heartwood",
+        "name": "Heartwood core",
+        "role": "core"
+      },
+      {
+        "id": "iron",
+        "name": "Sanctuary iron",
+        "role": "core"
+      },
+      {
+        "id": "silver",
+        "name": "Moonsteel edge",
+        "role": "core"
+      },
+      {
+        "id": "life",
+        "name": "Life rune",
+        "role": "rune"
+      },
+      {
+        "id": "guard",
+        "name": "Guard rune",
+        "role": "rune"
+      },
+      {
+        "id": "force",
+        "name": "Force rune",
+        "role": "rune"
+      },
+      {
+        "id": "thread",
+        "name": "Oath thread",
+        "role": "binding"
+      },
+      {
+        "id": "rivet",
+        "name": "Runic rivet",
+        "role": "binding"
+      },
+      {
+        "id": "crystal",
+        "name": "Beacon crystal",
+        "role": "binding"
+      }
+    ],
+    "recipes": [
+      {
+        "id": "heart-1",
+        "name": "Traveler’s Heart",
+        "kind": "health",
+        "level": 1,
+        "cost": 0.5,
+        "seconds": 30,
+        "nodes": [
+          "heartwood",
+          "life",
+          "thread"
+        ],
+        "description": "+20 maximum HP",
+        "effect": {
+          "maxHp": 20
+        }
+      },
+      {
+        "id": "armor-1",
+        "name": "Sentinel Weave",
+        "kind": "armor",
+        "level": 1,
+        "cost": 1,
+        "seconds": 45,
+        "nodes": [
+          "iron",
+          "guard",
+          "rivet"
+        ],
+        "description": "Absorb 3 damage from each creature response",
+        "effect": {
+          "armor": 3
+        }
+      },
+      {
+        "id": "weapon-1",
+        "name": "Runed Edge",
+        "kind": "weapon",
+        "level": 1,
+        "cost": 1,
+        "seconds": 60,
+        "nodes": [
+          "silver",
+          "force",
+          "crystal"
+        ],
+        "description": "+10% attack damage",
+        "effect": {
+          "attackPercent": 0.1
+        }
+      },
+      {
+        "id": "healing-1",
+        "name": "Restorer’s Sigil",
+        "kind": "healing",
+        "level": 1,
+        "cost": 1.5,
+        "seconds": 75,
+        "nodes": [
+          "heartwood",
+          "life",
+          "crystal"
+        ],
+        "description": "+10% healing strength",
+        "effect": {
+          "healPercent": 0.1
+        }
+      },
+      {
+        "id": "heart-2",
+        "name": "Heart of Sanctuary",
+        "kind": "health",
+        "level": 2,
+        "requires": "heart-1",
+        "cost": 2,
+        "seconds": 90,
+        "nodes": [
+          "heartwood",
+          "guard",
+          "thread"
+        ],
+        "description": "+40 maximum HP in total; replaces Traveler’s Heart",
+        "effect": {
+          "maxHp": 40
+        }
+      },
+      {
+        "id": "armor-2",
+        "name": "Bastion Plate",
+        "kind": "armor",
+        "level": 2,
+        "requires": "armor-1",
+        "cost": 2,
+        "seconds": 90,
+        "nodes": [
+          "iron",
+          "guard",
+          "crystal"
+        ],
+        "description": "Absorb 6 damage per creature response; replaces Sentinel Weave",
+        "effect": {
+          "armor": 6
+        }
+      },
+      {
+        "id": "weapon-2",
+        "name": "Champion’s Temper",
+        "kind": "weapon",
+        "level": 2,
+        "requires": "weapon-1",
+        "cost": 2,
+        "seconds": 120,
+        "nodes": [
+          "silver",
+          "force",
+          "rivet"
+        ],
+        "description": "+20% attack damage in total; replaces Runed Edge",
+        "effect": {
+          "attackPercent": 0.2
+        }
+      }
+    ],
+    "equipment": {
+      "maxHp": 100,
+      "armor": 0,
+      "attackPercent": 0,
+      "healPercent": 0,
+      "items": []
+    },
+    "wallet": {
+      "costPool": "team",
+      "earned": 33.25,
+      "spent": 0,
+      "available": 181.25,
+      "debt": 0
+    },
+    "ledger": [
+      {
+        "id": "cdd62a6b-5ee5-459d-81e6-25316ede7936",
+        "playerId": "c84a35f9-9d89-4007-b6d3-d16009149444",
+        "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+        "round": 4,
+        "day": "2026-10-22",
+        "at": 1792708053246,
+        "scope": "team",
+        "points": 1,
+        "reason": "Siege upgrade · Runic Battery"
+      },
+      {
+        "id": "3ea32552-8614-4546-b887-50c64402d9bd",
+        "playerId": "c84a35f9-9d89-4007-b6d3-d16009149444",
+        "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+        "round": 4,
+        "day": "2026-10-22",
+        "at": 1792708112528,
+        "scope": "team",
+        "points": 1,
+        "reason": "Siege upgrade · Ranger Watch"
+      }
+    ],
+    "jobs": []
+  },
+  "teamCombatCosts": [
+    {
+      "id": "d7624743-6622-47fd-8412-fa84313011bb",
+      "playerId": "4da92dfb-e837-4f6f-8e78-e81155a87703",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792707844662,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Nightglass Pact"
+    },
+    {
+      "id": "faf3f8b9-c0a4-416c-90c2-c2edf620fefe",
+      "playerId": "4da92dfb-e837-4f6f-8e78-e81155a87703",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792707861559,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Ranger Watch"
+    },
+    {
+      "id": "d7a6d189-9b6a-4a06-ba8b-d1d3308693e8",
+      "playerId": "4da92dfb-e837-4f6f-8e78-e81155a87703",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792707871919,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Ranger Watch"
+    },
+    {
+      "id": "07eac404-7739-4310-a530-e4c7c21edf4c",
+      "playerId": "4da92dfb-e837-4f6f-8e78-e81155a87703",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792707882201,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Ranger Watch"
+    },
+    {
+      "id": "95669fb6-670c-4063-8eb2-13bde4fcf53b",
+      "playerId": "4da92dfb-e837-4f6f-8e78-e81155a87703",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792707896755,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Sanctuary Beacon"
+    },
+    {
+      "id": "813c0daf-5e57-411b-8255-b525e9414051",
+      "playerId": "00106ee1-33cd-47f2-aa52-ae10dd915207",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792707901185,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Runic Battery"
+    },
+    {
+      "id": "e48a1727-c5e7-4704-b444-124ff7531b48",
+      "playerId": "4da92dfb-e837-4f6f-8e78-e81155a87703",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792707930055,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Ranger Watch"
+    },
+    {
+      "id": "e4cb63c8-f846-4ac7-950e-203acc9ab543",
+      "playerId": "4da92dfb-e837-4f6f-8e78-e81155a87703",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792707968746,
+      "scope": "team",
+      "points": 1.5,
+      "reason": "Siege upgrade · Nightglass Pact"
+    },
+    {
+      "id": "4d2ea008-3dc6-4c95-a5ad-1cdc15f4189b",
+      "playerId": "4da92dfb-e837-4f6f-8e78-e81155a87703",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792708011919,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Sanctuary Beacon"
+    },
+    {
+      "id": "cdd62a6b-5ee5-459d-81e6-25316ede7936",
+      "playerId": "c84a35f9-9d89-4007-b6d3-d16009149444",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792708053246,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Runic Battery"
+    },
+    {
+      "id": "35ed2b88-1f11-4ffe-87ce-764b08e45730",
+      "playerId": "4da92dfb-e837-4f6f-8e78-e81155a87703",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792708077532,
+      "scope": "team",
+      "points": 1.5,
+      "reason": "Siege upgrade · Runic Battery"
+    },
+    {
+      "id": "3ea32552-8614-4546-b887-50c64402d9bd",
+      "playerId": "c84a35f9-9d89-4007-b6d3-d16009149444",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792708112528,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Ranger Watch"
+    },
+    {
+      "id": "ce3f16a2-a03b-4265-8bca-4aab72369339",
+      "playerId": "757c6e91-290a-4d63-a929-36c8895aaace",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792708126228,
+      "scope": "team",
+      "points": 1,
+      "reason": "Siege upgrade · Flame Conclave"
+    },
+    {
+      "id": "921f8cef-813d-415f-ad9a-1bbbde677124",
+      "playerId": "00106ee1-33cd-47f2-aa52-ae10dd915207",
+      "teamId": "3c154b95-60e2-470d-8897-3bad8a28c217",
+      "round": 4,
+      "day": "2026-10-22",
+      "at": 1792708174273,
+      "scope": "team",
+      "points": 1.5,
+      "reason": "Siege upgrade · Sanctuary Beacon"
+    }
+  ],
+  "journey": {
+    "character": "The Pathfinder",
+    "subject": "csharp",
+    "portrait": 0,
+    "clan": "Frostbound",
+    "round": 4,
+    "realm": "Frostfall Pass",
+    "region": "mountain",
+    "completedRound": 4,
+    "realmNote": "Last completed: round 4 / 2026-10-22"
+  },
+  "rewards": {
+    "scope": "event",
+    "basis": "shared-team",
+    "rewardPool": "One shared team reward pool; not a separate payout per member.",
+    "earned": 181.25,
+    "academicCap": 50,
+    "courseCreditEligible": 50,
+    "standing": {
+      "status": "review-required",
+      "potentialAllowance": 50,
+      "lateArrivals": 0,
+      "lateDeduction": 0,
+      "appliedLateDeduction": 0,
+      "courseCreditEligible": 50,
+      "mortal": false,
+      "reviewId": null,
+      "reviewedAt": null,
+      "attendance": "unreviewed",
+      "artifacts": "unreviewed",
+      "rewardValueRetained": true
+    },
+    "rewardOnlyPoints": 131.25,
+    "pointsPerSticker": null,
+    "stickers": null,
+    "unconvertedPoints": null,
+    "stickersPerUnit": 3,
+    "possibleUnits": null,
+    "stickersAfterUnits": null,
+    "requiresP2PAccount": true,
+    "fulfillment": "Gamemaster verification required. This record does not credit an account. Stickers exchanged for Units are spent, not awarded again."
+  },
+  "rewardRules": {
+    "academicCap": 50,
+    "capScope": "event",
+    "pointsPerSticker": null,
+    "stickersPerUnit": 3,
+    "lateJoinCost": 5,
+    "prizes": [
+      {
+        "place": 1,
+        "title": "Sanctuary Champion",
+        "description": "First-place prize announced by the Gamemaster.",
+        "image": ""
+      },
+      {
+        "place": 2,
+        "title": "Silver Expedition",
+        "description": "Second-place prize announced by the Gamemaster.",
+        "image": ""
+      },
+      {
+        "place": 3,
+        "title": "Bronze Expedition",
+        "description": "Third-place prize announced by the Gamemaster.",
+        "image": ""
+      }
+    ],
+    "prizeTitle": "Sanctuary Champion",
+    "prizeDescription": "The Gamemaster announces the prize for the winning team.",
+    "trophyImage": "",
+    "rules": "Points above the course-credit cap are reward-only. The Gatekeeper approves available rewards and rates, including Codex stickers or pantry items. Eligible coursework points may be saved for an approved later assignment. Three Codex stickers may exchange for one Unit with a verified Pathways to Pipelines account and Gatekeeper fulfillment."
+  },
+  "prizeEligible": true,
+  "prizeRule": "Team prizes require two or more members when the round starts. Solo travelers earn activity credit only.",
+  "status": "daily-target-met",
+  "roundResults": [
+    {
+      "round": 1,
+      "realm": "Tideglass Coast",
+      "prizePlace": 2,
+      "prizeEligible": true
+    },
+    {
+      "round": 2,
+      "realm": "Whisperwood",
+      "prizePlace": 1,
+      "prizeEligible": true
+    },
+    {
+      "round": 3,
+      "realm": "Whisperwood",
+      "prizePlace": 1,
+      "prizeEligible": true
+    },
+    {
+      "round": 4,
+      "realm": "Frostfall Pass",
+      "prizePlace": 2,
+      "prizeEligible": true
+    }
+  ],
+  "points": 33.25,
+  "dailyTarget": 10,
+  "additionalPoints": 23.25,
+  "awardIds": [
+    "1f9c0844-df80-4e8c-bc8c-a55fc73bf819",
+    "63bd8e9c-9a1d-4cdf-89b9-9021ef3b7d17",
+    "31d9cff9-774e-402e-b391-0a03a0506bd3",
+    "0341f59d-71fd-42db-a3d8-58dd6bf25534",
+    "e70cc426-a188-4479-a640-61ee923e4527",
+    "6cc588b2-b75b-4f00-ab1b-3322e5a403d3",
+    "b9e3f8fb-41b0-4fb9-8137-3c1a22a0720e",
+    "dee8892a-207c-46c0-a145-840b1191a364",
+    "c17af141-1e11-4636-a2c7-caac64c7bd00",
+    "75746ab7-f975-4874-baf8-9014109ede55",
+    "7d7d5368-b791-45b2-90f3-2a16decc7a37",
+    "1b2b483e-3c02-46dd-b860-9558a26e132c",
+    "3d7e5d91-ea54-4429-9dcc-f1fddea81d3d",
+    "96042380-17ac-460c-9bd4-10bd9613e046",
+    "99cc4710-5140-44eb-a556-507d44f6d063",
+    "e7f9d096-8400-4c89-a534-eefc9f7ca7e9",
+    "937a3707-35a5-423c-8ef5-51a8504eb16d",
+    "0cc48193-6ea9-4e44-ac03-d086a0a30e49",
+    "2faa34c9-484d-4fc0-8be0-017d1b92be67",
+    "56cb6b02-91e6-43af-b801-2dd5e91fcc4b",
+    "3de14119-b2a1-4534-aa28-962efb753719",
+    "29b45c93-6578-415a-a2d4-37ea3616680e",
+    "ba49d290-f2cc-49d9-b73b-9a7068da1085",
+    "4ff9cab6-08a3-45ce-8152-98888069b5d2",
+    "4c514adc-1d96-483e-a49f-e7bf6d545035",
+    "b253a851-ccb3-4667-8d4d-ca93b85409bf",
+    "00d7febe-3f92-4c18-aa01-300cabf42c38"
+  ],
+  "encounters": [
+    {
+      "title": "The Lost Notice",
+      "subject": "html",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:19:57.113Z"
+    },
+    {
+      "title": "The Broken Signpost",
+      "subject": "html",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:20:27.511Z"
+    },
+    {
+      "title": "The Supply Cache",
+      "subject": "html",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:21:28.594Z"
+    },
+    {
+      "title": "The Missing Portrait",
+      "subject": "html",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:24:00.807Z"
+    },
+    {
+      "title": "The Unnamed Traveler",
+      "subject": "html",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:27:58.539Z"
+    },
+    {
+      "title": "The Ruined Archive",
+      "subject": "html",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:29:51.016Z"
+    },
+    {
+      "title": "The Hidden Signal",
+      "subject": "css",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:32:04.801Z"
+    },
+    {
+      "title": "Room to Breathe",
+      "subject": "css",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:32:58.225Z"
+    },
+    {
+      "title": "A Readable Message",
+      "subject": "css",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:33:43.931Z"
+    },
+    {
+      "title": "The Scattered Controls",
+      "subject": "css",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:35:04.947Z"
+    },
+    {
+      "title": "The Shield Frame",
+      "subject": "css",
+      "points": 1,
+      "round": 1,
+      "at": "2026-10-22T21:36:37.412Z"
+    },
+    {
+      "title": "The Supply Function",
+      "subject": "javascript",
+      "points": 2,
+      "round": 1,
+      "at": "2026-10-22T21:38:14.427Z"
+    },
+    {
+      "title": "The Spark Engine",
+      "subject": "javascript",
+      "points": 2,
+      "round": 1,
+      "at": "2026-10-22T21:38:24.082Z"
+    },
+    {
+      "title": "The Two States",
+      "subject": "javascript",
+      "points": 2,
+      "round": 1,
+      "at": "2026-10-22T21:40:23.121Z"
+    },
+    {
+      "title": "The Beacon Switch",
+      "subject": "javascript",
+      "points": 2,
+      "round": 1,
+      "at": "2026-10-22T21:40:46.795Z"
+    },
+    {
+      "title": "The Connected Controls",
+      "subject": "wpf",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-22T21:56:55.582Z"
+    },
+    {
+      "title": "The Supply Slots",
+      "subject": "css",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-22T21:58:43.851Z"
+    },
+    {
+      "title": "Nettlewick · Mosswatch Village bounty share",
+      "subject": "html",
+      "points": 0.25,
+      "round": 3,
+      "at": "2026-10-22T22:03:08.358Z"
+    },
+    {
+      "title": "Briar Oath · Mosswatch Village bounty share",
+      "subject": "html",
+      "points": 0.5,
+      "round": 3,
+      "at": "2026-10-22T22:05:03.674Z"
+    },
+    {
+      "title": "Bronze Pilgrim · Lantern Grove bounty share",
+      "subject": "css",
+      "points": 0.5,
+      "round": 3,
+      "at": "2026-10-22T22:06:20.381Z"
+    },
+    {
+      "title": "The Frozen Bridge · Ranger Watch",
+      "subject": "csharp",
+      "points": 1,
+      "round": 4,
+      "at": "2026-10-22T22:20:22.065Z"
+    },
+    {
+      "title": "The Supply Counter · Ranger Watch",
+      "subject": "csharp",
+      "points": 1,
+      "round": 4,
+      "at": "2026-10-22T22:20:50.260Z"
+    },
+    {
+      "title": "The Two Seals · Ranger Watch",
+      "subject": "csharp",
+      "points": 1,
+      "round": 4,
+      "at": "2026-10-22T22:21:23.156Z"
+    },
+    {
+      "title": "The Silent Beacon · Ranger Watch",
+      "subject": "csharp",
+      "points": 1,
+      "round": 4,
+      "at": "2026-10-22T22:21:59.369Z"
+    },
+    {
+      "title": "The Mosswatch guard · Iron Vanguard",
+      "subject": "csharp",
+      "points": 1,
+      "round": 4,
+      "at": "2026-10-22T22:23:11.246Z"
+    },
+    {
+      "title": "The Energy Conduit · Runic Battery",
+      "subject": "csharp",
+      "points": 2,
+      "round": 4,
+      "at": "2026-10-22T22:27:33.246Z"
+    },
+    {
+      "title": "The Guard's Rule · Ranger Watch",
+      "subject": "csharp",
+      "points": 2,
+      "round": 4,
+      "at": "2026-10-22T22:28:32.528Z"
+    }
+  ],
+  "issuedAt": "2026-10-22T22:32:14.139Z",
+  "records": "Verified activity record; save this receipt in your course GitHub repository and submit the repository link through Canvas.",
+  "covenant": {
+    "version": "presence-2026-10-21",
+    "title": "The Covenant of Presence",
+    "pledge": "Remain present in the realm. Bring back the work that proves your journey.",
+    "review": "Coursework use requires Gatekeeper verification of attendance, required artifacts and any deductions. The amount shown is a potential allowance, not a posted grade or a spendable account balance.",
+    "conditions": [
+      {
+        "title": "Keep your place in the realm",
+        "text": "A team member who misses a class day or does not submit required assignment artifacts loses the coursework use of their team-earned points. Those points become Mortal Points: the game achievement and other reward value remain, but the allowance of up to 50 points for coursework is void."
+      },
+      {
+        "title": "Arrive with your company",
+        "text": "Each late arrival deducts 15 points from your personal coursework allowance after the cap: 50 becomes 35, then 20. The allowance cannot fall below zero. Your team’s score and prize standings stay unchanged. Attendance is verified in class; connection problems are not proof of lateness or absence."
+      },
+      {
+        "title": "Choose when to use your award",
+        "text": "You do not have to use eligible points on today’s assignment. You may save them for an instructor-approved final project or approved rewards, such as Codex stickers or pantry items. The Gatekeeper confirms eligibility, available rewards and the exchange rate before use."
+      },
+      {
+        "title": "Carry your record with you",
+        "text": "Keep this certificate and its signed receipt. A Learners.cloud account is optional for class participation. Account storage is planned; this certificate does not deposit points, issue Units or guarantee an exchange."
+      }
+    ],
+    "status": "review-required",
+    "standing": {
+      "status": "review-required",
+      "potentialAllowance": 50,
+      "lateArrivals": 0,
+      "lateDeduction": 0,
+      "appliedLateDeduction": 0,
+      "courseCreditEligible": 50,
+      "mortal": false,
+      "reviewId": null,
+      "reviewedAt": null,
+      "attendance": "unreviewed",
+      "artifacts": "unreviewed",
+      "rewardValueRetained": true
+    },
+    "automaticAttendanceDetection": false
+  },
+  "signature": "732bd45c4260126f529f0cfd8593656921ae1540d9545e543ced38c58092ba2f"
+}
